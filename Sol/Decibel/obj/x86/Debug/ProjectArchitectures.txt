@@ -1,0 +1,4 @@
+G:\workspace\Unity\HoloTutorial220\Sol\Decibel\Decibel.csproj;x86
+G:\workspace\Unity\HoloTutorial220\Sol\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+G:\workspace\Unity\HoloTutorial220\Sol\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+G:\workspace\Unity\HoloTutorial220\Sol\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
