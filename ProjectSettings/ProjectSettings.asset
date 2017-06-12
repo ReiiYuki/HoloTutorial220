@@ -579,7 +579,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Microsoft Corporation
   metroCertificateIssuer: Microsoft Corporation
-  metroCertificateNotAfter: 80ea4825ca73d301
+  metroCertificateNotAfter: 80a1e4c92002d401
   metroApplicationDescription: Decibel
   wsaImages: {}
   metroTileShortName: Decibel
